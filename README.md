@@ -3,7 +3,7 @@
 Quantum Music Privacy Policy
 [Last Updated: October 4, 2018]
 
-This Privacy Policy (this policy) describes how Music Player protects your privacy when you use Music Player (the App). 
+This Privacy Policy (this policy) describes how Music Player protects your privacy when you use Quantum Music (the App). 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE APP  YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBE HEREIN AND ALL TERMS AND CONDITION INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE APP.
 
