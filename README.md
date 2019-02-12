@@ -14,3 +14,5 @@ We may collect aggregate information, which is information about the use of the 
 We may use and share aggregate information with third parties for various purposes.
 
 If you have and questions or comments about this Policy, please contact us by emailing us at zeik.young@yahoo.com.
+
+https://play.google.com/store/apps/details?id=com.musicplayerequalizer
