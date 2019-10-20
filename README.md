@@ -1,18 +1,18 @@
 # Privacy-Policy
 
-Media Cloud Privacy Policy
-[Last Updated: September 17, 2019]
+Editor Cloud Privacy Policy
+[Last Updated: October 20, 2019]
 
-This Privacy Policy (this policy) describes how Media Cloud protects your privacy when you use Media Cloud (the App). 
+This Privacy Policy (this policy) describes how Editor Cloud protects your privacy when you use Editor Cloud (the App). 
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING THE APP  YOU AGREE TO BE BOUND BY THE TERMS AND CONDITIONS DESCRIBE HEREIN AND ALL TERMS AND CONDITION INCORPORATED BY REFERENCE. IF YOU DO NOT AGREE TO ALL OF THE TERMS AND CONDITIONS SET FORTH BELOW, YOU MAY NOT USE THE APP.
 
-This Policy applies to information collected through the App (Media Cloud).
+This Policy applies to information collected through the App (Editor Cloud).
 
 We do not collect any personal or personally identifiable information.
-We may collect aggregate information, which is information about the use of the App (Media Cloud) or about a group or category of services or users, from which individual identities or other personal information has been removed.
+We may collect aggregate information, which is information about the use of the App (Editor Cloud) or about a group or category of services or users, from which individual identities or other personal information has been removed.
 We may use and share aggregate information with third parties for various purposes.
 
-If you have and questions or comments about this Policy, please contact us by emailing us at zeik.young@yahoo.com.
+If you have and questions or comments about this Policy, please contact us by emailing us at stevejobs455@yahoo.com.
 
-https://play.google.com/store/apps/details?id=young.editor.mediacloud
+https://play.google.com/store/apps/details?id=young.editor.editorcloud
