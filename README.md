@@ -11,7 +11,7 @@ This Policy applies to information collected through the App (Editor Cloud).
 
 We do not collect any personal or personally identifiable information.
 We may collect aggregate information, which is information about the use of the App (Editor Cloud) or about a group or category of services or users, from which individual identities or other personal information has been removed.
-We upload your users internal account information, linking your cloud storage of audio, image, and video files to your google sign-in email account name. This allows users to access their files across Android devices.
+We upload your internal account information. More specifically, we upload your google sign-in account name and your devices audio, image, and video files. Then, we link those files to your google sign-in account, allowing you to access your files across Android devices.
 We may use and share aggregate information with third parties for various purposes.
 
 If you have and questions or comments about this Policy, please contact us by emailing us at stevejobs455@yahoo.com.
